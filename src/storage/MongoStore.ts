@@ -25,6 +25,7 @@ export default class MongoStore implements PersistentStorage {
       if(state === null){
         throw new Error(`Can't load state from db: aborting. Did you seed the db ?`)
       }
+      delete state._id
       return state as State;
     })
   }
