@@ -1,0 +1,28 @@
+{
+  "name": "twitter-writes-hamlet-v2",
+  "version": "1.0.0",
+  "description": "If you put 100 monkeys with typewriters in a room long enough, eventually you’ll get Hamlet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpileOnly ./src/server.ts",
+    "build": "tsc",
+    "start": "node build/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "@types/mongodb": "^3.1.22",
+    "@types/socket.io": "^2.1.2",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "socket.io": "^2.2.0",
+    "typescript": "^3.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "ts-node-dev": "^1.0.0-pre.32"
+  }
+}

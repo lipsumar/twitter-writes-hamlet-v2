@@ -1,0 +1,21 @@
+version: '3.1'
+
+services:
+  app:
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - '80:5000'
+    links:
+      - mongo
+
+  mongo:
+    image: 'mongo:4.0'
+    volumes:
+      - ./data:/data/db
+
+  mongo-seed:
+    build: ./mongo-seed
+    links:
+      - mongo
