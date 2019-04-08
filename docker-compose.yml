@@ -10,6 +10,18 @@ services:
     links:
       - mongo
 
+  app-dev:
+    build: .
+    command: npm run dev
+    environment:
+      NODE_ENV: dev
+    ports:
+      - '5000:5000'
+    links:
+      - mongo
+    volumes:
+      - .:/usr/src/app
+
   mongo:
     image: 'mongo:4.0'
     volumes:
