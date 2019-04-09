@@ -1,28 +1,28 @@
-<div class="text__stage-direction"><span data-i="25012">Enter</span> <span data-i="25013">ROSENCRANTZ</span> </div>
+<div class="text__stage-direction"><span data-i="21352">Enter</span> <span data-i="21353">ROSENCRANTZ</span> </div>
 <div class="text__dialog">
 	<div class="dialog"><div class="dialog__name"></div><div class="dialog__text">
-			<div><span data-i="25016">How</span> <span data-i="25017">now!</span> <span data-i="25018">what</span> <span data-i="25019">hath</span> <span data-i="25020">befall'n?</span> </div>
+			<div><span data-i="21354">How</span> <span data-i="21355">now!</span> <span data-i="21356">what</span> <span data-i="21357">hath</span> <span data-i="21358">befall'n?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25022">ROSENCRANTZ</span> </div>
+		<div class="dialog__name"><span data-i="21359">ROSENCRANTZ</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25024">Where</span> <span data-i="25025">the</span> <span data-i="25026">dead</span> <span data-i="25027">body</span> <span data-i="25028">is</span> <span data-i="25029">bestow'd,</span> <span data-i="25030">my</span> <span data-i="25031">lord,</span> </div>
-			<div><span data-i="25033">We</span> <span data-i="25034">cannot</span> <span data-i="25035">get</span> <span data-i="25036">from</span> <span data-i="25037">him.</span> </div>
+			<div><span data-i="21360">Where</span> <span data-i="21361">the</span> <span data-i="21362">dead</span> <span data-i="21363">body</span> <span data-i="21364">is</span> <span data-i="21365">bestow'd,</span> <span data-i="21366">my</span> <span data-i="21367">lord,</span> </div>
+			<div><span data-i="21368">We</span> <span data-i="21369">cannot</span> <span data-i="21370">get</span> <span data-i="21371">from</span> <span data-i="21372">him.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25039">KING</span> <span data-i="25040">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="21373">KING</span> <span data-i="21374">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25042">But</span> <span data-i="25043">where</span> <span data-i="25044">is</span> <span data-i="25045">he?</span> </div>
+			<div><span data-i="21375">But</span> <span data-i="21376">where</span> <span data-i="21377">is</span> <span data-i="21378">he?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25047">ROSENCRANTZ</span> </div>
+		<div class="dialog__name"><span data-i="21379">ROSENCRANTZ</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25049">Without,</span> <span data-i="25050">my</span> <span data-i="25051">lord;</span> <span data-i="25052">guarded,</span> <span data-i="25053">to</span> <span data-i="25054">know</span> <span data-i="25055">your</span> <span data-i="25056">pleasure.</span> </div>
+			<div><span data-i="21380">Without,</span> <span data-i="21381">my</span> <span data-i="21382">lord;</span> <span data-i="21383">guarded,</span> <span data-i="21384">to</span> <span data-i="21385">know</span> <span data-i="21386">your</span> <span data-i="21387">pleasure.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25058">KING</span> <span data-i="25059">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="21388">KING</span> <span data-i="21389">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25061">Bring</span> <span data-i="25062">him</span> <span data-i="25063">before</span> <span data-i="25064">us.</span> </div>
+			<div><span data-i="21390">Bring</span> <span data-i="21391">him</span> <span data-i="21392">before</span> <span data-i="21393">us.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25066">ROSENCRANTZ</span> </div>
+		<div class="dialog__name"><span data-i="21394">ROSENCRANTZ</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25068">Ho,</span> <span data-i="25069">Guildenstern!</span> <span data-i="25070">bring</span> <span data-i="25071">in</span> <span data-i="25072">my</span> <span data-i="25073">lord.</span> </div>
+			<div><span data-i="21395">Ho,</span> <span data-i="21396">Guildenstern!</span> <span data-i="21397">bring</span> <span data-i="21398">in</span> <span data-i="21399">my</span> <span data-i="21400">lord.</span> </div>
 		</div>
 	</div>
 </div>

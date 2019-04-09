@@ -1,21 +1,21 @@
-<div class="text__stage-direction"><span data-i="25622">Enter</span> <span data-i="25623">FORTINBRAS,</span> <span data-i="25624">a</span> <span data-i="25625">Captain,</span> <span data-i="25626">and</span> <span data-i="25627">Soldiers,</span> <span data-i="25628">marching</span> </div>
+<div class="text__stage-direction"><span data-i="21858">Enter</span> <span data-i="21859">FORTINBRAS,</span> <span data-i="21860">a</span> <span data-i="21861">Captain,</span> <span data-i="21862">and</span> <span data-i="21863">Soldiers,</span> <span data-i="21864">marching</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="25630">PRINCE</span> <span data-i="25631">FORTINBRAS</span> </div>
+		<div class="dialog__name"><span data-i="21865">PRINCE</span> <span data-i="21866">FORTINBRAS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25633">Go,</span> <span data-i="25634">captain,</span> <span data-i="25635">from</span> <span data-i="25636">me</span> <span data-i="25637">greet</span> <span data-i="25638">the</span> <span data-i="25639">Danish</span> <span data-i="25640">king;</span> </div>
-			<div><span data-i="25642">Tell</span> <span data-i="25643">him</span> <span data-i="25644">that,</span> <span data-i="25645">by</span> <span data-i="25646">his</span> <span data-i="25647">licence,</span> <span data-i="25648">Fortinbras</span> </div>
-			<div><span data-i="25650">Craves</span> <span data-i="25651">the</span> <span data-i="25652">conveyance</span> <span data-i="25653">of</span> <span data-i="25654">a</span> <span data-i="25655">promised</span> <span data-i="25656">march</span> </div>
-			<div><span data-i="25658">Over</span> <span data-i="25659">his</span> <span data-i="25660">kingdom.</span> <span data-i="25661">You</span> <span data-i="25662">know</span> <span data-i="25663">the</span> <span data-i="25664">rendezvous.</span> </div>
-			<div><span data-i="25666">If</span> <span data-i="25667">that</span> <span data-i="25668">his</span> <span data-i="25669">majesty</span> <span data-i="25670">would</span> <span data-i="25671">aught</span> <span data-i="25672">with</span> <span data-i="25673">us,</span> </div>
-			<div><span data-i="25675">We</span> <span data-i="25676">shall</span> <span data-i="25677">express</span> <span data-i="25678">our</span> <span data-i="25679">duty</span> <span data-i="25680">in</span> <span data-i="25681">his</span> <span data-i="25682">eye;</span> </div>
-			<div><span data-i="25684">And</span> <span data-i="25685">let</span> <span data-i="25686">him</span> <span data-i="25687">know</span> <span data-i="25688">so.</span> </div>
-			<div><span data-i="25690">Captain</span> </div>
-			<div><span data-i="25692">I</span> <span data-i="25693">will</span> <span data-i="25694">do't,</span> <span data-i="25695">my</span> <span data-i="25696">lord.</span> </div>
+			<div><span data-i="21867">Go,</span> <span data-i="21868">captain,</span> <span data-i="21869">from</span> <span data-i="21870">me</span> <span data-i="21871">greet</span> <span data-i="21872">the</span> <span data-i="21873">Danish</span> <span data-i="21874">king;</span> </div>
+			<div><span data-i="21875">Tell</span> <span data-i="21876">him</span> <span data-i="21877">that,</span> <span data-i="21878">by</span> <span data-i="21879">his</span> <span data-i="21880">licence,</span> <span data-i="21881">Fortinbras</span> </div>
+			<div><span data-i="21882">Craves</span> <span data-i="21883">the</span> <span data-i="21884">conveyance</span> <span data-i="21885">of</span> <span data-i="21886">a</span> <span data-i="21887">promised</span> <span data-i="21888">march</span> </div>
+			<div><span data-i="21889">Over</span> <span data-i="21890">his</span> <span data-i="21891">kingdom.</span> <span data-i="21892">You</span> <span data-i="21893">know</span> <span data-i="21894">the</span> <span data-i="21895">rendezvous.</span> </div>
+			<div><span data-i="21896">If</span> <span data-i="21897">that</span> <span data-i="21898">his</span> <span data-i="21899">majesty</span> <span data-i="21900">would</span> <span data-i="21901">aught</span> <span data-i="21902">with</span> <span data-i="21903">us,</span> </div>
+			<div><span data-i="21904">We</span> <span data-i="21905">shall</span> <span data-i="21906">express</span> <span data-i="21907">our</span> <span data-i="21908">duty</span> <span data-i="21909">in</span> <span data-i="21910">his</span> <span data-i="21911">eye;</span> </div>
+			<div><span data-i="21912">And</span> <span data-i="21913">let</span> <span data-i="21914">him</span> <span data-i="21915">know</span> <span data-i="21916">so.</span> </div>
+			<div><span data-i="21917">Captain</span> </div>
+			<div><span data-i="21918">I</span> <span data-i="21919">will</span> <span data-i="21920">do't,</span> <span data-i="21921">my</span> <span data-i="21922">lord.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25698">PRINCE</span> <span data-i="25699">FORTINBRAS</span> </div>
+		<div class="dialog__name"><span data-i="21923">PRINCE</span> <span data-i="21924">FORTINBRAS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25701">Go</span> <span data-i="25702">softly</span> <span data-i="25703">on.</span> </div>
+			<div><span data-i="21925">Go</span> <span data-i="21926">softly</span> <span data-i="21927">on.</span> </div>
 		</div>
 	</div>
 </div>

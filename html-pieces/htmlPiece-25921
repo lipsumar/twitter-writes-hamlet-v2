@@ -1,13 +1,13 @@
-<div class="text__stage-direction"><span data-i="25921">Exit</span> </div>
+<div class="text__stage-direction"><span data-i="22106">Exit</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="25924">ROSENCRANTZ</span> </div>
+		<div class="dialog__name"><span data-i="22107">ROSENCRANTZ</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25926">Wilt</span> <span data-i="25927">please</span> <span data-i="25928">you</span> <span data-i="25929">go,</span> <span data-i="25930">my</span> <span data-i="25931">lord?</span> </div>
+			<div><span data-i="22108">Wilt</span> <span data-i="22109">please</span> <span data-i="22110">you</span> <span data-i="22111">go,</span> <span data-i="22112">my</span> <span data-i="22113">lord?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="25933">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="22114">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="25935">I'll</span> <span data-i="25936">be</span> <span data-i="25937">with</span> <span data-i="25938">you</span> <span data-i="25939">straight</span> <span data-i="25940">go</span> <span data-i="25941">a</span> <span data-i="25942">little</span> <span data-i="25943">before.</span> </div>
+			<div><span data-i="22115">I'll</span> <span data-i="22116">be</span> <span data-i="22117">with</span> <span data-i="22118">you</span> <span data-i="22119">straight</span> <span data-i="22120">go</span> <span data-i="22121">a</span> <span data-i="22122">little</span> <span data-i="22123">before.</span> </div>
 		</div>
 	</div>
 </div>

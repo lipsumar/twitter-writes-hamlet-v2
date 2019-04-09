@@ -1,34 +1,34 @@
-<div class="text__stage-direction"><span data-i="19750">Pours</span> <span data-i="19751">the</span> <span data-i="19752">poison</span> <span data-i="19753">into</span> <span data-i="19754">the</span> <span data-i="19755">sleeper's</span> <span data-i="19756">ears</span> </div>
+<div class="text__stage-direction"><span data-i="16873">Pours</span> <span data-i="16874">the</span> <span data-i="16875">poison</span> <span data-i="16876">into</span> <span data-i="16877">the</span> <span data-i="16878">sleeper's</span> <span data-i="16879">ears</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="19759">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="16880">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19761">He</span> <span data-i="19762">poisons</span> <span data-i="19763">him</span> <span data-i="19764">i'</span> <span data-i="19765">the</span> <span data-i="19766">garden</span> <span data-i="19767">for's</span> <span data-i="19768">estate.</span> <span data-i="19769">His</span> </div>
-			<div><span data-i="19771">name's</span> <span data-i="19772">Gonzago:</span> <span data-i="19773">the</span> <span data-i="19774">story</span> <span data-i="19775">is</span> <span data-i="19776">extant,</span> <span data-i="19777">and</span> <span data-i="19778">writ</span> <span data-i="19779">in</span> </div>
-			<div><span data-i="19781">choice</span> <span data-i="19782">Italian:</span> <span data-i="19783">you</span> <span data-i="19784">shall</span> <span data-i="19785">see</span> <span data-i="19786">anon</span> <span data-i="19787">how</span> <span data-i="19788">the</span> <span data-i="19789">murderer</span> </div>
-			<div><span data-i="19791">gets</span> <span data-i="19792">the</span> <span data-i="19793">love</span> <span data-i="19794">of</span> <span data-i="19795">Gonzago's</span> <span data-i="19796">wife.</span> </div>
+			<div><span data-i="16881">He</span> <span data-i="16882">poisons</span> <span data-i="16883">him</span> <span data-i="16884">i'</span> <span data-i="16885">the</span> <span data-i="16886">garden</span> <span data-i="16887">for's</span> <span data-i="16888">estate.</span> <span data-i="16889">His</span> </div>
+			<div><span data-i="16890">name's</span> <span data-i="16891">Gonzago:</span> <span data-i="16892">the</span> <span data-i="16893">story</span> <span data-i="16894">is</span> <span data-i="16895">extant,</span> <span data-i="16896">and</span> <span data-i="16897">writ</span> <span data-i="16898">in</span> </div>
+			<div><span data-i="16899">choice</span> <span data-i="16900">Italian:</span> <span data-i="16901">you</span> <span data-i="16902">shall</span> <span data-i="16903">see</span> <span data-i="16904">anon</span> <span data-i="16905">how</span> <span data-i="16906">the</span> <span data-i="16907">murderer</span> </div>
+			<div><span data-i="16908">gets</span> <span data-i="16909">the</span> <span data-i="16910">love</span> <span data-i="16911">of</span> <span data-i="16912">Gonzago's</span> <span data-i="16913">wife.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="19798">OPHELIA</span> </div>
+		<div class="dialog__name"><span data-i="16914">OPHELIA</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19800">The</span> <span data-i="19801">king</span> <span data-i="19802">rises.</span> </div>
+			<div><span data-i="16915">The</span> <span data-i="16916">king</span> <span data-i="16917">rises.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="19804">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="16918">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19806">What,</span> <span data-i="19807">frighted</span> <span data-i="19808">with</span> <span data-i="19809">false</span> <span data-i="19810">fire!</span> </div>
+			<div><span data-i="16919">What,</span> <span data-i="16920">frighted</span> <span data-i="16921">with</span> <span data-i="16922">false</span> <span data-i="16923">fire!</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="19812">QUEEN</span> <span data-i="19813">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="16924">QUEEN</span> <span data-i="16925">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19815">How</span> <span data-i="19816">fares</span> <span data-i="19817">my</span> <span data-i="19818">lord?</span> </div>
+			<div><span data-i="16926">How</span> <span data-i="16927">fares</span> <span data-i="16928">my</span> <span data-i="16929">lord?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="19820">LORD</span> <span data-i="19821">POLONIUS</span> </div>
+		<div class="dialog__name"><span data-i="16930">LORD</span> <span data-i="16931">POLONIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19823">Give</span> <span data-i="19824">o'er</span> <span data-i="19825">the</span> <span data-i="19826">play.</span> </div>
+			<div><span data-i="16932">Give</span> <span data-i="16933">o'er</span> <span data-i="16934">the</span> <span data-i="16935">play.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="19828">KING</span> <span data-i="19829">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="16936">KING</span> <span data-i="16937">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="19831">Give</span> <span data-i="19832">me</span> <span data-i="19833">some</span> <span data-i="19834">light:</span> <span data-i="19835">away!</span> </div>
-			<div><span data-i="19837">All</span> </div>
-			<div><span data-i="19839">Lights,</span> <span data-i="19840">lights,</span> <span data-i="19841">lights!</span> </div>
+			<div><span data-i="16938">Give</span> <span data-i="16939">me</span> <span data-i="16940">some</span> <span data-i="16941">light:</span> <span data-i="16942">away!</span> </div>
+			<div><span data-i="16943">All</span> </div>
+			<div><span data-i="16944">Lights,</span> <span data-i="16945">lights,</span> <span data-i="16946">lights!</span> </div>
 		</div>
 	</div>
 </div>

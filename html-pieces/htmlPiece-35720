@@ -1,9 +1,9 @@
-<div class="text__stage-direction"><span data-i="35720">Enter</span> <span data-i="35721">KING</span> <span data-i="35722">CLAUDIUS,</span> <span data-i="35723">QUEEN</span> <span data-i="35724">GERTRUDE,</span> <span data-i="35725">LAERTES,</span> <span data-i="35726">Lords,</span> <span data-i="35727">OSRIC,</span> <span data-i="35728">and</span> <span data-i="35729">Attendants</span> <span data-i="35730">with</span> <span data-i="35731">foils,</span> <span data-i="35732">&</span> <span data-i="35733">c</span> </div>
+<div class="text__stage-direction"><span data-i="30439">Enter</span> <span data-i="30440">KING</span> <span data-i="30441">CLAUDIUS,</span> <span data-i="30442">QUEEN</span> <span data-i="30443">GERTRUDE,</span> <span data-i="30444">LAERTES,</span> <span data-i="30445">Lords,</span> <span data-i="30446">OSRIC,</span> <span data-i="30447">and</span> <span data-i="30448">Attendants</span> <span data-i="30449">with</span> <span data-i="30450">foils,</span> <span data-i="30451">&</span> <span data-i="30452">c</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="35736">KING</span> <span data-i="35737">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="30453">KING</span> <span data-i="30454">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="35739">Come,</span> <span data-i="35740">Hamlet,</span> <span data-i="35741">come,</span> <span data-i="35742">and</span> <span data-i="35743">take</span> <span data-i="35744">this</span> <span data-i="35745">hand</span> <span data-i="35746">from</span> <span data-i="35747">me.</span> </div>
+			<div><span data-i="30455">Come,</span> <span data-i="30456">Hamlet,</span> <span data-i="30457">come,</span> <span data-i="30458">and</span> <span data-i="30459">take</span> <span data-i="30460">this</span> <span data-i="30461">hand</span> <span data-i="30462">from</span> <span data-i="30463">me.</span> </div>
 		</div>
 	</div>
 </div>

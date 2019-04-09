@@ -1,15 +1,16 @@
 import PersistentStorage from "./PersistentStorage";
-import {MongoClient, Db, Collection} from 'mongodb'
+import { MongoClient, Db, Collection } from 'mongodb'
 import State from "../models/State";
+import Word from "../models/Word";
 
 export default class MongoStore implements PersistentStorage {
-  
+
   client: MongoClient
   dbName: string;
   db?: Db;
-  
-  constructor(url: string, dbName: string){
-    this.client = new MongoClient(url, {useNewUrlParser: true})
+
+  constructor(url: string, dbName: string) {
+    this.client = new MongoClient(url, { useNewUrlParser: true })
     this.dbName = dbName
   }
 
@@ -21,8 +22,8 @@ export default class MongoStore implements PersistentStorage {
   }
 
   getState(): Promise<State> {
-    return this.collection('state').findOne({_id: 1}).then(state => {
-      if(state === null){
+    return this.collection('state').findOne({ _id: 1 }).then(state => {
+      if (state === null) {
         throw new Error(`Can't load state from db: aborting. Did you seed the db ?`)
       }
       delete state._id
@@ -30,7 +31,19 @@ export default class MongoStore implements PersistentStorage {
     })
   }
 
-  collection(name:string):Collection{
+  saveState(state: State){
+    return this.collection('state').updateOne({_id: 1}, {$set:state}).then(() => state)
+  }
+
+  getWordsFromIndex(fromIndex: number, wordCount: number): Promise<Word[]> {
+    return this.collection('words')
+      .find({ index: { $gte: fromIndex } })
+      .limit(wordCount)
+      .sort('index', 1)
+      .toArray()
+  }
+
+  private collection(name: string): Collection {
     return (<Db>this.db).collection(name)
   }
 }

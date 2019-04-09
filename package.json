@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "ts-node-dev --respawn --transpileOnly ./src/server.ts",
+    "dev": "FORCE_COLOR=1 ts-node-dev --respawn --transpileOnly ./src/server.ts",
     "build": "tsc",
-    "start": "node build/server.js"
+    "start": "node build/server.js",
+    "generate-seed": "rm -f html-pieces/* && rm -f mongo-seed/words.json && node build/scripts/parse-and-seed.js"
   },
   "keywords": [],
   "author": "",
@@ -16,13 +17,16 @@
     "@types/express": "^4.16.1",
     "@types/mongodb": "^3.1.22",
     "@types/socket.io": "^2.1.2",
+    "@types/twitter": "^1.7.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "mongodb": "^3.2.3",
     "socket.io": "^2.2.0",
+    "twitter": "^1.7.1",
     "typescript": "^3.4.2"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10",
     "ts-node-dev": "^1.0.0-pre.32"
   }
 }

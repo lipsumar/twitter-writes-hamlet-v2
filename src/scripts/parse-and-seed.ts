@@ -20,6 +20,7 @@ var lastWasDirection = false;
 var allWords = extractWords(text);
 
 var nextWordI = 0;
+var sequentialNextWordI = 0
 var queue:any[] = [];
 
 
@@ -54,7 +55,7 @@ function out(html: string, s?: string, split?: boolean){
 
 
 				queue.push({
-					index: nextWordI,
+					index: sequentialNextWordI,
 					word: word,
 					clean: clean,
 					acceptable: acceptable,
@@ -62,8 +63,9 @@ function out(html: string, s?: string, split?: boolean){
 				});
 
 
-				sReplaced += '<span data-i="'+nextWordI+'">'+word+'</span> ';
+				sReplaced += '<span data-i="'+sequentialNextWordI+'">'+word+'</span> ';
 				nextWordI++;
+				sequentialNextWordI++;
 				if(typeof(allWords[nextWordI])==='undefined'){
 					//console.log('last word', word);
 					return;

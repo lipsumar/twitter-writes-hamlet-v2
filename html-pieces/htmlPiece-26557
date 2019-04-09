@@ -1,18 +1,18 @@
-<div class="text__stage-direction"><span data-i="26557">Sings</span> </div>
+<div class="text__stage-direction"><span data-i="22648">Sings</span> </div>
 <div class="text__dialog">
 	<div class="dialog"><div class="dialog__name"></div><div class="dialog__text">
-			<div><span data-i="26560">He</span> <span data-i="26561">is</span> <span data-i="26562">dead</span> <span data-i="26563">and</span> <span data-i="26564">gone,</span> <span data-i="26565">lady,</span> </div>
-			<div><span data-i="26567">He</span> <span data-i="26568">is</span> <span data-i="26569">dead</span> <span data-i="26570">and</span> <span data-i="26571">gone;</span> </div>
-			<div><span data-i="26573">At</span> <span data-i="26574">his</span> <span data-i="26575">head</span> <span data-i="26576">a</span> <span data-i="26577">grass-green</span> <span data-i="26578">turf,</span> </div>
-			<div><span data-i="26580">At</span> <span data-i="26581">his</span> <span data-i="26582">heels</span> <span data-i="26583">a</span> <span data-i="26584">stone.</span> </div>
+			<div><span data-i="22649">He</span> <span data-i="22650">is</span> <span data-i="22651">dead</span> <span data-i="22652">and</span> <span data-i="22653">gone,</span> <span data-i="22654">lady,</span> </div>
+			<div><span data-i="22655">He</span> <span data-i="22656">is</span> <span data-i="22657">dead</span> <span data-i="22658">and</span> <span data-i="22659">gone;</span> </div>
+			<div><span data-i="22660">At</span> <span data-i="22661">his</span> <span data-i="22662">head</span> <span data-i="22663">a</span> <span data-i="22664">grass-green</span> <span data-i="22665">turf,</span> </div>
+			<div><span data-i="22666">At</span> <span data-i="22667">his</span> <span data-i="22668">heels</span> <span data-i="22669">a</span> <span data-i="22670">stone.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="26586">QUEEN</span> <span data-i="26587">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="22671">QUEEN</span> <span data-i="22672">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="26589">Nay,</span> <span data-i="26590">but,</span> <span data-i="26591">Ophelia,—</span> </div>
+			<div><span data-i="22673">Nay,</span> <span data-i="22674">but,</span> <span data-i="22675">Ophelia,—</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="26593">OPHELIA</span> </div>
+		<div class="dialog__name"><span data-i="22676">OPHELIA</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="26595">Pray</span> <span data-i="26596">you,</span> <span data-i="26597">mark.</span> </div>
+			<div><span data-i="22677">Pray</span> <span data-i="22678">you,</span> <span data-i="22679">mark.</span> </div>
 		</div>
 	</div>
 </div>

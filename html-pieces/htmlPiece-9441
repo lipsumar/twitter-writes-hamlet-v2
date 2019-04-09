@@ -1,71 +1,71 @@
-<div class="text__stage-direction"><span data-i="9441">Enter</span> <span data-i="9442">KING</span> <span data-i="9443">CLAUDIUS,</span> <span data-i="9444">QUEEN</span> <span data-i="9445">GERTRUDE,</span> <span data-i="9446">ROSENCRANTZ,</span> <span data-i="9447">GUILDENSTERN,</span> <span data-i="9448">and</span> <span data-i="9449">Attendants</span> </div>
+<div class="text__stage-direction"><span data-i="8025">Enter</span> <span data-i="8026">KING</span> <span data-i="8027">CLAUDIUS,</span> <span data-i="8028">QUEEN</span> <span data-i="8029">GERTRUDE,</span> <span data-i="8030">ROSENCRANTZ,</span> <span data-i="8031">GUILDENSTERN,</span> <span data-i="8032">and</span> <span data-i="8033">Attendants</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="9451">KING</span> <span data-i="9452">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="8034">KING</span> <span data-i="8035">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9454">Welcome,</span> <span data-i="9455">dear</span> <span data-i="9456">Rosencrantz</span> <span data-i="9457">and</span> <span data-i="9458">Guildenstern!</span> </div>
-			<div><span data-i="9460">Moreover</span> <span data-i="9461">that</span> <span data-i="9462">we</span> <span data-i="9463">much</span> <span data-i="9464">did</span> <span data-i="9465">long</span> <span data-i="9466">to</span> <span data-i="9467">see</span> <span data-i="9468">you,</span> </div>
-			<div><span data-i="9470">The</span> <span data-i="9471">need</span> <span data-i="9472">we</span> <span data-i="9473">have</span> <span data-i="9474">to</span> <span data-i="9475">use</span> <span data-i="9476">you</span> <span data-i="9477">did</span> <span data-i="9478">provoke</span> </div>
-			<div><span data-i="9480">Our</span> <span data-i="9481">hasty</span> <span data-i="9482">sending.</span> <span data-i="9483">Something</span> <span data-i="9484">have</span> <span data-i="9485">you</span> <span data-i="9486">heard</span> </div>
-			<div><span data-i="9488">Of</span> <span data-i="9489">Hamlet's</span> <span data-i="9490">transformation;</span> <span data-i="9491">so</span> <span data-i="9492">call</span> <span data-i="9493">it,</span> </div>
-			<div><span data-i="9495">Sith</span> <span data-i="9496">nor</span> <span data-i="9497">the</span> <span data-i="9498">exterior</span> <span data-i="9499">nor</span> <span data-i="9500">the</span> <span data-i="9501">inward</span> <span data-i="9502">man</span> </div>
-			<div><span data-i="9504">Resembles</span> <span data-i="9505">that</span> <span data-i="9506">it</span> <span data-i="9507">was.</span> <span data-i="9508">What</span> <span data-i="9509">it</span> <span data-i="9510">should</span> <span data-i="9511">be,</span> </div>
-			<div><span data-i="9513">More</span> <span data-i="9514">than</span> <span data-i="9515">his</span> <span data-i="9516">father's</span> <span data-i="9517">death,</span> <span data-i="9518">that</span> <span data-i="9519">thus</span> <span data-i="9520">hath</span> <span data-i="9521">put</span> <span data-i="9522">him</span> </div>
-			<div><span data-i="9524">So</span> <span data-i="9525">much</span> <span data-i="9526">from</span> <span data-i="9527">the</span> <span data-i="9528">understanding</span> <span data-i="9529">of</span> <span data-i="9530">himself,</span> </div>
-			<div><span data-i="9532">I</span> <span data-i="9533">cannot</span> <span data-i="9534">dream</span> <span data-i="9535">of:</span> <span data-i="9536">I</span> <span data-i="9537">entreat</span> <span data-i="9538">you</span> <span data-i="9539">both,</span> </div>
-			<div><span data-i="9541">That,</span> <span data-i="9542">being</span> <span data-i="9543">of</span> <span data-i="9544">so</span> <span data-i="9545">young</span> <span data-i="9546">days</span> <span data-i="9547">brought</span> <span data-i="9548">up</span> <span data-i="9549">with</span> <span data-i="9550">him,</span> </div>
-			<div><span data-i="9552">And</span> <span data-i="9553">sith</span> <span data-i="9554">so</span> <span data-i="9555">neighbour'd</span> <span data-i="9556">to</span> <span data-i="9557">his</span> <span data-i="9558">youth</span> <span data-i="9559">and</span> <span data-i="9560">havior,</span> </div>
-			<div><span data-i="9562">That</span> <span data-i="9563">you</span> <span data-i="9564">vouchsafe</span> <span data-i="9565">your</span> <span data-i="9566">rest</span> <span data-i="9567">here</span> <span data-i="9568">in</span> <span data-i="9569">our</span> <span data-i="9570">court</span> </div>
-			<div><span data-i="9572">Some</span> <span data-i="9573">little</span> <span data-i="9574">time:</span> <span data-i="9575">so</span> <span data-i="9576">by</span> <span data-i="9577">your</span> <span data-i="9578">companies</span> </div>
-			<div><span data-i="9580">To</span> <span data-i="9581">draw</span> <span data-i="9582">him</span> <span data-i="9583">on</span> <span data-i="9584">to</span> <span data-i="9585">pleasures,</span> <span data-i="9586">and</span> <span data-i="9587">to</span> <span data-i="9588">gather,</span> </div>
-			<div><span data-i="9590">So</span> <span data-i="9591">much</span> <span data-i="9592">as</span> <span data-i="9593">from</span> <span data-i="9594">occasion</span> <span data-i="9595">you</span> <span data-i="9596">may</span> <span data-i="9597">glean,</span> </div>
-			<div><span data-i="9599">Whether</span> <span data-i="9600">aught,</span> <span data-i="9601">to</span> <span data-i="9602">us</span> <span data-i="9603">unknown,</span> <span data-i="9604">afflicts</span> <span data-i="9605">him</span> <span data-i="9606">thus,</span> </div>
-			<div><span data-i="9608">That,</span> <span data-i="9609">open'd,</span> <span data-i="9610">lies</span> <span data-i="9611">within</span> <span data-i="9612">our</span> <span data-i="9613">remedy.</span> </div>
+			<div><span data-i="8036">Welcome,</span> <span data-i="8037">dear</span> <span data-i="8038">Rosencrantz</span> <span data-i="8039">and</span> <span data-i="8040">Guildenstern!</span> </div>
+			<div><span data-i="8041">Moreover</span> <span data-i="8042">that</span> <span data-i="8043">we</span> <span data-i="8044">much</span> <span data-i="8045">did</span> <span data-i="8046">long</span> <span data-i="8047">to</span> <span data-i="8048">see</span> <span data-i="8049">you,</span> </div>
+			<div><span data-i="8050">The</span> <span data-i="8051">need</span> <span data-i="8052">we</span> <span data-i="8053">have</span> <span data-i="8054">to</span> <span data-i="8055">use</span> <span data-i="8056">you</span> <span data-i="8057">did</span> <span data-i="8058">provoke</span> </div>
+			<div><span data-i="8059">Our</span> <span data-i="8060">hasty</span> <span data-i="8061">sending.</span> <span data-i="8062">Something</span> <span data-i="8063">have</span> <span data-i="8064">you</span> <span data-i="8065">heard</span> </div>
+			<div><span data-i="8066">Of</span> <span data-i="8067">Hamlet's</span> <span data-i="8068">transformation;</span> <span data-i="8069">so</span> <span data-i="8070">call</span> <span data-i="8071">it,</span> </div>
+			<div><span data-i="8072">Sith</span> <span data-i="8073">nor</span> <span data-i="8074">the</span> <span data-i="8075">exterior</span> <span data-i="8076">nor</span> <span data-i="8077">the</span> <span data-i="8078">inward</span> <span data-i="8079">man</span> </div>
+			<div><span data-i="8080">Resembles</span> <span data-i="8081">that</span> <span data-i="8082">it</span> <span data-i="8083">was.</span> <span data-i="8084">What</span> <span data-i="8085">it</span> <span data-i="8086">should</span> <span data-i="8087">be,</span> </div>
+			<div><span data-i="8088">More</span> <span data-i="8089">than</span> <span data-i="8090">his</span> <span data-i="8091">father's</span> <span data-i="8092">death,</span> <span data-i="8093">that</span> <span data-i="8094">thus</span> <span data-i="8095">hath</span> <span data-i="8096">put</span> <span data-i="8097">him</span> </div>
+			<div><span data-i="8098">So</span> <span data-i="8099">much</span> <span data-i="8100">from</span> <span data-i="8101">the</span> <span data-i="8102">understanding</span> <span data-i="8103">of</span> <span data-i="8104">himself,</span> </div>
+			<div><span data-i="8105">I</span> <span data-i="8106">cannot</span> <span data-i="8107">dream</span> <span data-i="8108">of:</span> <span data-i="8109">I</span> <span data-i="8110">entreat</span> <span data-i="8111">you</span> <span data-i="8112">both,</span> </div>
+			<div><span data-i="8113">That,</span> <span data-i="8114">being</span> <span data-i="8115">of</span> <span data-i="8116">so</span> <span data-i="8117">young</span> <span data-i="8118">days</span> <span data-i="8119">brought</span> <span data-i="8120">up</span> <span data-i="8121">with</span> <span data-i="8122">him,</span> </div>
+			<div><span data-i="8123">And</span> <span data-i="8124">sith</span> <span data-i="8125">so</span> <span data-i="8126">neighbour'd</span> <span data-i="8127">to</span> <span data-i="8128">his</span> <span data-i="8129">youth</span> <span data-i="8130">and</span> <span data-i="8131">havior,</span> </div>
+			<div><span data-i="8132">That</span> <span data-i="8133">you</span> <span data-i="8134">vouchsafe</span> <span data-i="8135">your</span> <span data-i="8136">rest</span> <span data-i="8137">here</span> <span data-i="8138">in</span> <span data-i="8139">our</span> <span data-i="8140">court</span> </div>
+			<div><span data-i="8141">Some</span> <span data-i="8142">little</span> <span data-i="8143">time:</span> <span data-i="8144">so</span> <span data-i="8145">by</span> <span data-i="8146">your</span> <span data-i="8147">companies</span> </div>
+			<div><span data-i="8148">To</span> <span data-i="8149">draw</span> <span data-i="8150">him</span> <span data-i="8151">on</span> <span data-i="8152">to</span> <span data-i="8153">pleasures,</span> <span data-i="8154">and</span> <span data-i="8155">to</span> <span data-i="8156">gather,</span> </div>
+			<div><span data-i="8157">So</span> <span data-i="8158">much</span> <span data-i="8159">as</span> <span data-i="8160">from</span> <span data-i="8161">occasion</span> <span data-i="8162">you</span> <span data-i="8163">may</span> <span data-i="8164">glean,</span> </div>
+			<div><span data-i="8165">Whether</span> <span data-i="8166">aught,</span> <span data-i="8167">to</span> <span data-i="8168">us</span> <span data-i="8169">unknown,</span> <span data-i="8170">afflicts</span> <span data-i="8171">him</span> <span data-i="8172">thus,</span> </div>
+			<div><span data-i="8173">That,</span> <span data-i="8174">open'd,</span> <span data-i="8175">lies</span> <span data-i="8176">within</span> <span data-i="8177">our</span> <span data-i="8178">remedy.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9615">QUEEN</span> <span data-i="9616">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="8179">QUEEN</span> <span data-i="8180">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9618">Good</span> <span data-i="9619">gentlemen,</span> <span data-i="9620">he</span> <span data-i="9621">hath</span> <span data-i="9622">much</span> <span data-i="9623">talk'd</span> <span data-i="9624">of</span> <span data-i="9625">you;</span> </div>
-			<div><span data-i="9627">And</span> <span data-i="9628">sure</span> <span data-i="9629">I</span> <span data-i="9630">am</span> <span data-i="9631">two</span> <span data-i="9632">men</span> <span data-i="9633">there</span> <span data-i="9634">are</span> <span data-i="9635">not</span> <span data-i="9636">living</span> </div>
-			<div><span data-i="9638">To</span> <span data-i="9639">whom</span> <span data-i="9640">he</span> <span data-i="9641">more</span> <span data-i="9642">adheres.</span> <span data-i="9643">If</span> <span data-i="9644">it</span> <span data-i="9645">will</span> <span data-i="9646">please</span> <span data-i="9647">you</span> </div>
-			<div><span data-i="9649">To</span> <span data-i="9650">show</span> <span data-i="9651">us</span> <span data-i="9652">so</span> <span data-i="9653">much</span> <span data-i="9654">gentry</span> <span data-i="9655">and</span> <span data-i="9656">good</span> <span data-i="9657">will</span> </div>
-			<div><span data-i="9659">As</span> <span data-i="9660">to</span> <span data-i="9661">expend</span> <span data-i="9662">your</span> <span data-i="9663">time</span> <span data-i="9664">with</span> <span data-i="9665">us</span> <span data-i="9666">awhile,</span> </div>
-			<div><span data-i="9668">For</span> <span data-i="9669">the</span> <span data-i="9670">supply</span> <span data-i="9671">and</span> <span data-i="9672">profit</span> <span data-i="9673">of</span> <span data-i="9674">our</span> <span data-i="9675">hope,</span> </div>
-			<div><span data-i="9677">Your</span> <span data-i="9678">visitation</span> <span data-i="9679">shall</span> <span data-i="9680">receive</span> <span data-i="9681">such</span> <span data-i="9682">thanks</span> </div>
-			<div><span data-i="9684">As</span> <span data-i="9685">fits</span> <span data-i="9686">a</span> <span data-i="9687">king's</span> <span data-i="9688">remembrance.</span> </div>
+			<div><span data-i="8181">Good</span> <span data-i="8182">gentlemen,</span> <span data-i="8183">he</span> <span data-i="8184">hath</span> <span data-i="8185">much</span> <span data-i="8186">talk'd</span> <span data-i="8187">of</span> <span data-i="8188">you;</span> </div>
+			<div><span data-i="8189">And</span> <span data-i="8190">sure</span> <span data-i="8191">I</span> <span data-i="8192">am</span> <span data-i="8193">two</span> <span data-i="8194">men</span> <span data-i="8195">there</span> <span data-i="8196">are</span> <span data-i="8197">not</span> <span data-i="8198">living</span> </div>
+			<div><span data-i="8199">To</span> <span data-i="8200">whom</span> <span data-i="8201">he</span> <span data-i="8202">more</span> <span data-i="8203">adheres.</span> <span data-i="8204">If</span> <span data-i="8205">it</span> <span data-i="8206">will</span> <span data-i="8207">please</span> <span data-i="8208">you</span> </div>
+			<div><span data-i="8209">To</span> <span data-i="8210">show</span> <span data-i="8211">us</span> <span data-i="8212">so</span> <span data-i="8213">much</span> <span data-i="8214">gentry</span> <span data-i="8215">and</span> <span data-i="8216">good</span> <span data-i="8217">will</span> </div>
+			<div><span data-i="8218">As</span> <span data-i="8219">to</span> <span data-i="8220">expend</span> <span data-i="8221">your</span> <span data-i="8222">time</span> <span data-i="8223">with</span> <span data-i="8224">us</span> <span data-i="8225">awhile,</span> </div>
+			<div><span data-i="8226">For</span> <span data-i="8227">the</span> <span data-i="8228">supply</span> <span data-i="8229">and</span> <span data-i="8230">profit</span> <span data-i="8231">of</span> <span data-i="8232">our</span> <span data-i="8233">hope,</span> </div>
+			<div><span data-i="8234">Your</span> <span data-i="8235">visitation</span> <span data-i="8236">shall</span> <span data-i="8237">receive</span> <span data-i="8238">such</span> <span data-i="8239">thanks</span> </div>
+			<div><span data-i="8240">As</span> <span data-i="8241">fits</span> <span data-i="8242">a</span> <span data-i="8243">king's</span> <span data-i="8244">remembrance.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9690">ROSENCRANTZ</span> </div>
+		<div class="dialog__name"><span data-i="8245">ROSENCRANTZ</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9692">Both</span> <span data-i="9693">your</span> <span data-i="9694">majesties</span> </div>
-			<div><span data-i="9696">Might,</span> <span data-i="9697">by</span> <span data-i="9698">the</span> <span data-i="9699">sovereign</span> <span data-i="9700">power</span> <span data-i="9701">you</span> <span data-i="9702">have</span> <span data-i="9703">of</span> <span data-i="9704">us,</span> </div>
-			<div><span data-i="9706">Put</span> <span data-i="9707">your</span> <span data-i="9708">dread</span> <span data-i="9709">pleasures</span> <span data-i="9710">more</span> <span data-i="9711">into</span> <span data-i="9712">command</span> </div>
-			<div><span data-i="9714">Than</span> <span data-i="9715">to</span> <span data-i="9716">entreaty.</span> </div>
+			<div><span data-i="8246">Both</span> <span data-i="8247">your</span> <span data-i="8248">majesties</span> </div>
+			<div><span data-i="8249">Might,</span> <span data-i="8250">by</span> <span data-i="8251">the</span> <span data-i="8252">sovereign</span> <span data-i="8253">power</span> <span data-i="8254">you</span> <span data-i="8255">have</span> <span data-i="8256">of</span> <span data-i="8257">us,</span> </div>
+			<div><span data-i="8258">Put</span> <span data-i="8259">your</span> <span data-i="8260">dread</span> <span data-i="8261">pleasures</span> <span data-i="8262">more</span> <span data-i="8263">into</span> <span data-i="8264">command</span> </div>
+			<div><span data-i="8265">Than</span> <span data-i="8266">to</span> <span data-i="8267">entreaty.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9718">GUILDENSTERN</span> </div>
+		<div class="dialog__name"><span data-i="8268">GUILDENSTERN</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9720">But</span> <span data-i="9721">we</span> <span data-i="9722">both</span> <span data-i="9723">obey,</span> </div>
-			<div><span data-i="9725">And</span> <span data-i="9726">here</span> <span data-i="9727">give</span> <span data-i="9728">up</span> <span data-i="9729">ourselves,</span> <span data-i="9730">in</span> <span data-i="9731">the</span> <span data-i="9732">full</span> <span data-i="9733">bent</span> </div>
-			<div><span data-i="9735">To</span> <span data-i="9736">lay</span> <span data-i="9737">our</span> <span data-i="9738">service</span> <span data-i="9739">freely</span> <span data-i="9740">at</span> <span data-i="9741">your</span> <span data-i="9742">feet,</span> </div>
-			<div><span data-i="9744">To</span> <span data-i="9745">be</span> <span data-i="9746">commanded.</span> </div>
+			<div><span data-i="8269">But</span> <span data-i="8270">we</span> <span data-i="8271">both</span> <span data-i="8272">obey,</span> </div>
+			<div><span data-i="8273">And</span> <span data-i="8274">here</span> <span data-i="8275">give</span> <span data-i="8276">up</span> <span data-i="8277">ourselves,</span> <span data-i="8278">in</span> <span data-i="8279">the</span> <span data-i="8280">full</span> <span data-i="8281">bent</span> </div>
+			<div><span data-i="8282">To</span> <span data-i="8283">lay</span> <span data-i="8284">our</span> <span data-i="8285">service</span> <span data-i="8286">freely</span> <span data-i="8287">at</span> <span data-i="8288">your</span> <span data-i="8289">feet,</span> </div>
+			<div><span data-i="8290">To</span> <span data-i="8291">be</span> <span data-i="8292">commanded.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9748">KING</span> <span data-i="9749">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="8293">KING</span> <span data-i="8294">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9751">Thanks,</span> <span data-i="9752">Rosencrantz</span> <span data-i="9753">and</span> <span data-i="9754">gentle</span> <span data-i="9755">Guildenstern.</span> </div>
+			<div><span data-i="8295">Thanks,</span> <span data-i="8296">Rosencrantz</span> <span data-i="8297">and</span> <span data-i="8298">gentle</span> <span data-i="8299">Guildenstern.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9757">QUEEN</span> <span data-i="9758">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="8300">QUEEN</span> <span data-i="8301">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9760">Thanks,</span> <span data-i="9761">Guildenstern</span> <span data-i="9762">and</span> <span data-i="9763">gentle</span> <span data-i="9764">Rosencrantz:</span> </div>
-			<div><span data-i="9766">And</span> <span data-i="9767">I</span> <span data-i="9768">beseech</span> <span data-i="9769">you</span> <span data-i="9770">instantly</span> <span data-i="9771">to</span> <span data-i="9772">visit</span> </div>
-			<div><span data-i="9774">My</span> <span data-i="9775">too</span> <span data-i="9776">much</span> <span data-i="9777">changed</span> <span data-i="9778">son.</span> <span data-i="9779">Go,</span> <span data-i="9780">some</span> <span data-i="9781">of</span> <span data-i="9782">you,</span> </div>
-			<div><span data-i="9784">And</span> <span data-i="9785">bring</span> <span data-i="9786">these</span> <span data-i="9787">gentlemen</span> <span data-i="9788">where</span> <span data-i="9789">Hamlet</span> <span data-i="9790">is.</span> </div>
+			<div><span data-i="8302">Thanks,</span> <span data-i="8303">Guildenstern</span> <span data-i="8304">and</span> <span data-i="8305">gentle</span> <span data-i="8306">Rosencrantz:</span> </div>
+			<div><span data-i="8307">And</span> <span data-i="8308">I</span> <span data-i="8309">beseech</span> <span data-i="8310">you</span> <span data-i="8311">instantly</span> <span data-i="8312">to</span> <span data-i="8313">visit</span> </div>
+			<div><span data-i="8314">My</span> <span data-i="8315">too</span> <span data-i="8316">much</span> <span data-i="8317">changed</span> <span data-i="8318">son.</span> <span data-i="8319">Go,</span> <span data-i="8320">some</span> <span data-i="8321">of</span> <span data-i="8322">you,</span> </div>
+			<div><span data-i="8323">And</span> <span data-i="8324">bring</span> <span data-i="8325">these</span> <span data-i="8326">gentlemen</span> <span data-i="8327">where</span> <span data-i="8328">Hamlet</span> <span data-i="8329">is.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9792">GUILDENSTERN</span> </div>
+		<div class="dialog__name"><span data-i="8330">GUILDENSTERN</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9794">Heavens</span> <span data-i="9795">make</span> <span data-i="9796">our</span> <span data-i="9797">presence</span> <span data-i="9798">and</span> <span data-i="9799">our</span> <span data-i="9800">practises</span> </div>
-			<div><span data-i="9802">Pleasant</span> <span data-i="9803">and</span> <span data-i="9804">helpful</span> <span data-i="9805">to</span> <span data-i="9806">him!</span> </div>
+			<div><span data-i="8331">Heavens</span> <span data-i="8332">make</span> <span data-i="8333">our</span> <span data-i="8334">presence</span> <span data-i="8335">and</span> <span data-i="8336">our</span> <span data-i="8337">practises</span> </div>
+			<div><span data-i="8338">Pleasant</span> <span data-i="8339">and</span> <span data-i="8340">helpful</span> <span data-i="8341">to</span> <span data-i="8342">him!</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="9808">QUEEN</span> <span data-i="9809">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="8343">QUEEN</span> <span data-i="8344">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="9811">Ay,</span> <span data-i="9812">amen!</span> </div>
+			<div><span data-i="8345">Ay,</span> <span data-i="8346">amen!</span> </div>
 		</div>
 	</div>
 </div>

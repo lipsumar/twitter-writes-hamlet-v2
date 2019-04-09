@@ -1,10 +1,10 @@
-<div class="text__stage-direction"><span data-i="15675">Exit</span> <span data-i="15676">QUEEN</span> <span data-i="15677">GERTRUDE</span> </div>
+<div class="text__stage-direction"><span data-i="13366">Exit</span> <span data-i="13367">QUEEN</span> <span data-i="13368">GERTRUDE</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="15680">LORD</span> <span data-i="15681">POLONIUS</span> </div>
+		<div class="dialog__name"><span data-i="13369">LORD</span> <span data-i="13370">POLONIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="15683">Ophelia,</span> <span data-i="15684">walk</span> <span data-i="15685">you</span> <span data-i="15686">here.</span> <span data-i="15687">Gracious,</span> <span data-i="15688">so</span> <span data-i="15689">please</span> <span data-i="15690">you,</span> </div>
-			<div><span data-i="15692">We</span> <span data-i="15693">will</span> <span data-i="15694">bestow</span> <span data-i="15695">ourselves.</span> </div>
+			<div><span data-i="13371">Ophelia,</span> <span data-i="13372">walk</span> <span data-i="13373">you</span> <span data-i="13374">here.</span> <span data-i="13375">Gracious,</span> <span data-i="13376">so</span> <span data-i="13377">please</span> <span data-i="13378">you,</span> </div>
+			<div><span data-i="13379">We</span> <span data-i="13380">will</span> <span data-i="13381">bestow</span> <span data-i="13382">ourselves.</span> </div>
 		</div>
 	</div>
 </div>

@@ -1,22 +1,22 @@
-<div class="text__stage-direction"><span data-i="29051">Enter</span> <span data-i="29052">a</span> <span data-i="29053">Messenger</span> </div>
+<div class="text__stage-direction"><span data-i="24759">Enter</span> <span data-i="24760">a</span> <span data-i="24761">Messenger</span> </div>
 <div class="text__dialog">
 	<div class="dialog"><div class="dialog__name"></div><div class="dialog__text">
-			<div><span data-i="29056">How</span> <span data-i="29057">now!</span> <span data-i="29058">what</span> <span data-i="29059">news?</span> </div>
-			<div><span data-i="29061">Messenger</span> </div>
-			<div><span data-i="29063">Letters,</span> <span data-i="29064">my</span> <span data-i="29065">lord,</span> <span data-i="29066">from</span> <span data-i="29067">Hamlet:</span> </div>
-			<div><span data-i="29069">This</span> <span data-i="29070">to</span> <span data-i="29071">your</span> <span data-i="29072">majesty;</span> <span data-i="29073">this</span> <span data-i="29074">to</span> <span data-i="29075">the</span> <span data-i="29076">queen.</span> </div>
+			<div><span data-i="24762">How</span> <span data-i="24763">now!</span> <span data-i="24764">what</span> <span data-i="24765">news?</span> </div>
+			<div><span data-i="24766">Messenger</span> </div>
+			<div><span data-i="24767">Letters,</span> <span data-i="24768">my</span> <span data-i="24769">lord,</span> <span data-i="24770">from</span> <span data-i="24771">Hamlet:</span> </div>
+			<div><span data-i="24772">This</span> <span data-i="24773">to</span> <span data-i="24774">your</span> <span data-i="24775">majesty;</span> <span data-i="24776">this</span> <span data-i="24777">to</span> <span data-i="24778">the</span> <span data-i="24779">queen.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="29078">KING</span> <span data-i="29079">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="24780">KING</span> <span data-i="24781">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="29081">From</span> <span data-i="29082">Hamlet!</span> <span data-i="29083">who</span> <span data-i="29084">brought</span> <span data-i="29085">them?</span> </div>
-			<div><span data-i="29087">Messenger</span> </div>
-			<div><span data-i="29089">Sailors,</span> <span data-i="29090">my</span> <span data-i="29091">lord,</span> <span data-i="29092">they</span> <span data-i="29093">say;</span> <span data-i="29094">I</span> <span data-i="29095">saw</span> <span data-i="29096">them</span> <span data-i="29097">not:</span> </div>
-			<div><span data-i="29099">They</span> <span data-i="29100">were</span> <span data-i="29101">given</span> <span data-i="29102">me</span> <span data-i="29103">by</span> <span data-i="29104">Claudio;</span> <span data-i="29105">he</span> <span data-i="29106">received</span> <span data-i="29107">them</span> </div>
-			<div><span data-i="29109">Of</span> <span data-i="29110">him</span> <span data-i="29111">that</span> <span data-i="29112">brought</span> <span data-i="29113">them.</span> </div>
+			<div><span data-i="24782">From</span> <span data-i="24783">Hamlet!</span> <span data-i="24784">who</span> <span data-i="24785">brought</span> <span data-i="24786">them?</span> </div>
+			<div><span data-i="24787">Messenger</span> </div>
+			<div><span data-i="24788">Sailors,</span> <span data-i="24789">my</span> <span data-i="24790">lord,</span> <span data-i="24791">they</span> <span data-i="24792">say;</span> <span data-i="24793">I</span> <span data-i="24794">saw</span> <span data-i="24795">them</span> <span data-i="24796">not:</span> </div>
+			<div><span data-i="24797">They</span> <span data-i="24798">were</span> <span data-i="24799">given</span> <span data-i="24800">me</span> <span data-i="24801">by</span> <span data-i="24802">Claudio;</span> <span data-i="24803">he</span> <span data-i="24804">received</span> <span data-i="24805">them</span> </div>
+			<div><span data-i="24806">Of</span> <span data-i="24807">him</span> <span data-i="24808">that</span> <span data-i="24809">brought</span> <span data-i="24810">them.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="29115">KING</span> <span data-i="29116">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="24811">KING</span> <span data-i="24812">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="29118">Laertes,</span> <span data-i="29119">you</span> <span data-i="29120">shall</span> <span data-i="29121">hear</span> <span data-i="29122">them.</span> <span data-i="29123">Leave</span> <span data-i="29124">us.</span> </div>
+			<div><span data-i="24813">Laertes,</span> <span data-i="24814">you</span> <span data-i="24815">shall</span> <span data-i="24816">hear</span> <span data-i="24817">them.</span> <span data-i="24818">Leave</span> <span data-i="24819">us.</span> </div>
 		</div>
 	</div>
 </div>

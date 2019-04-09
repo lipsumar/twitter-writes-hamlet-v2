@@ -1,15 +1,15 @@
-<div class="text__stage-direction"><span data-i="17599">Enter</span> <span data-i="17600">POLONIUS,</span> <span data-i="17601">ROSENCRANTZ,</span> <span data-i="17602">and</span> <span data-i="17603">GUILDENSTERN</span> </div>
+<div class="text__stage-direction"><span data-i="15036">Enter</span> <span data-i="15037">POLONIUS,</span> <span data-i="15038">ROSENCRANTZ,</span> <span data-i="15039">and</span> <span data-i="15040">GUILDENSTERN</span> </div>
 <div class="text__dialog">
 	<div class="dialog"><div class="dialog__name"></div><div class="dialog__text">
-			<div><span data-i="17606">How</span> <span data-i="17607">now,</span> <span data-i="17608">my</span> <span data-i="17609">lord!</span> <span data-i="17610">I</span> <span data-i="17611">will</span> <span data-i="17612">the</span> <span data-i="17613">king</span> <span data-i="17614">hear</span> <span data-i="17615">this</span> <span data-i="17616">piece</span> <span data-i="17617">of</span> <span data-i="17618">work?</span> </div>
+			<div><span data-i="15041">How</span> <span data-i="15042">now,</span> <span data-i="15043">my</span> <span data-i="15044">lord!</span> <span data-i="15045">I</span> <span data-i="15046">will</span> <span data-i="15047">the</span> <span data-i="15048">king</span> <span data-i="15049">hear</span> <span data-i="15050">this</span> <span data-i="15051">piece</span> <span data-i="15052">of</span> <span data-i="15053">work?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="17620">LORD</span> <span data-i="17621">POLONIUS</span> </div>
+		<div class="dialog__name"><span data-i="15054">LORD</span> <span data-i="15055">POLONIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="17623">And</span> <span data-i="17624">the</span> <span data-i="17625">queen</span> <span data-i="17626">too,</span> <span data-i="17627">and</span> <span data-i="17628">that</span> <span data-i="17629">presently.</span> </div>
+			<div><span data-i="15056">And</span> <span data-i="15057">the</span> <span data-i="15058">queen</span> <span data-i="15059">too,</span> <span data-i="15060">and</span> <span data-i="15061">that</span> <span data-i="15062">presently.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="17631">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="15063">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="17633">Bid</span> <span data-i="17634">the</span> <span data-i="17635">players</span> <span data-i="17636">make</span> <span data-i="17637">haste.</span> </div>
+			<div><span data-i="15064">Bid</span> <span data-i="15065">the</span> <span data-i="15066">players</span> <span data-i="15067">make</span> <span data-i="15068">haste.</span> </div>
 		</div>
 	</div>
 </div>

@@ -1,15 +1,15 @@
-<div class="text__stage-direction"><span data-i="28337">Enter</span> <span data-i="28338">HORATIO</span> <span data-i="28339">and</span> <span data-i="28340">a</span> <span data-i="28341">Servant</span> </div>
+<div class="text__stage-direction"><span data-i="24137">Enter</span> <span data-i="24138">HORATIO</span> <span data-i="24139">and</span> <span data-i="24140">a</span> <span data-i="24141">Servant</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="28343">HORATIO</span> </div>
+		<div class="dialog__name"><span data-i="24142">HORATIO</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="28345">What</span> <span data-i="28346">are</span> <span data-i="28347">they</span> <span data-i="28348">that</span> <span data-i="28349">would</span> <span data-i="28350">speak</span> <span data-i="28351">with</span> <span data-i="28352">me?</span> </div>
-			<div><span data-i="28354">Servant</span> </div>
-			<div><span data-i="28356">Sailors,</span> <span data-i="28357">sir:</span> <span data-i="28358">they</span> <span data-i="28359">say</span> <span data-i="28360">they</span> <span data-i="28361">have</span> <span data-i="28362">letters</span> <span data-i="28363">for</span> <span data-i="28364">you.</span> </div>
+			<div><span data-i="24143">What</span> <span data-i="24144">are</span> <span data-i="24145">they</span> <span data-i="24146">that</span> <span data-i="24147">would</span> <span data-i="24148">speak</span> <span data-i="24149">with</span> <span data-i="24150">me?</span> </div>
+			<div><span data-i="24151">Servant</span> </div>
+			<div><span data-i="24152">Sailors,</span> <span data-i="24153">sir:</span> <span data-i="24154">they</span> <span data-i="24155">say</span> <span data-i="24156">they</span> <span data-i="24157">have</span> <span data-i="24158">letters</span> <span data-i="24159">for</span> <span data-i="24160">you.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="28366">HORATIO</span> </div>
+		<div class="dialog__name"><span data-i="24161">HORATIO</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="28368">Let</span> <span data-i="28369">them</span> <span data-i="28370">come</span> <span data-i="28371">in.</span> </div>
+			<div><span data-i="24162">Let</span> <span data-i="24163">them</span> <span data-i="24164">come</span> <span data-i="24165">in.</span> </div>
 		</div>
 	</div>
 </div>

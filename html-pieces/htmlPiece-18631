@@ -1,27 +1,27 @@
-<div class="text__stage-direction"><span data-i="18631">Enter</span> <span data-i="18632">Prologue</span> </div>
+<div class="text__stage-direction"><span data-i="15917">Enter</span> <span data-i="15918">Prologue</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="18635">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="15919">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="18637">We</span> <span data-i="18638">shall</span> <span data-i="18639">know</span> <span data-i="18640">by</span> <span data-i="18641">this</span> <span data-i="18642">fellow:</span> <span data-i="18643">the</span> <span data-i="18644">players</span> <span data-i="18645">cannot</span> </div>
-			<div><span data-i="18647">keep</span> <span data-i="18648">counsel;</span> <span data-i="18649">they'll</span> <span data-i="18650">tell</span> <span data-i="18651">all.</span> </div>
+			<div><span data-i="15920">We</span> <span data-i="15921">shall</span> <span data-i="15922">know</span> <span data-i="15923">by</span> <span data-i="15924">this</span> <span data-i="15925">fellow:</span> <span data-i="15926">the</span> <span data-i="15927">players</span> <span data-i="15928">cannot</span> </div>
+			<div><span data-i="15929">keep</span> <span data-i="15930">counsel;</span> <span data-i="15931">they'll</span> <span data-i="15932">tell</span> <span data-i="15933">all.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="18653">OPHELIA</span> </div>
+		<div class="dialog__name"><span data-i="15934">OPHELIA</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="18655">Will</span> <span data-i="18656">he</span> <span data-i="18657">tell</span> <span data-i="18658">us</span> <span data-i="18659">what</span> <span data-i="18660">this</span> <span data-i="18661">show</span> <span data-i="18662">meant?</span> </div>
+			<div><span data-i="15935">Will</span> <span data-i="15936">he</span> <span data-i="15937">tell</span> <span data-i="15938">us</span> <span data-i="15939">what</span> <span data-i="15940">this</span> <span data-i="15941">show</span> <span data-i="15942">meant?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="18664">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="15943">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="18666">Ay,</span> <span data-i="18667">or</span> <span data-i="18668">any</span> <span data-i="18669">show</span> <span data-i="18670">that</span> <span data-i="18671">you'll</span> <span data-i="18672">show</span> <span data-i="18673">him:</span> <span data-i="18674">be</span> <span data-i="18675">not</span> <span data-i="18676">you</span> </div>
-			<div><span data-i="18678">ashamed</span> <span data-i="18679">to</span> <span data-i="18680">show,</span> <span data-i="18681">he'll</span> <span data-i="18682">not</span> <span data-i="18683">shame</span> <span data-i="18684">to</span> <span data-i="18685">tell</span> <span data-i="18686">you</span> <span data-i="18687">what</span> <span data-i="18688">it</span> <span data-i="18689">means.</span> </div>
+			<div><span data-i="15944">Ay,</span> <span data-i="15945">or</span> <span data-i="15946">any</span> <span data-i="15947">show</span> <span data-i="15948">that</span> <span data-i="15949">you'll</span> <span data-i="15950">show</span> <span data-i="15951">him:</span> <span data-i="15952">be</span> <span data-i="15953">not</span> <span data-i="15954">you</span> </div>
+			<div><span data-i="15955">ashamed</span> <span data-i="15956">to</span> <span data-i="15957">show,</span> <span data-i="15958">he'll</span> <span data-i="15959">not</span> <span data-i="15960">shame</span> <span data-i="15961">to</span> <span data-i="15962">tell</span> <span data-i="15963">you</span> <span data-i="15964">what</span> <span data-i="15965">it</span> <span data-i="15966">means.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="18691">OPHELIA</span> </div>
+		<div class="dialog__name"><span data-i="15967">OPHELIA</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="18693">You</span> <span data-i="18694">are</span> <span data-i="18695">naught,</span> <span data-i="18696">you</span> <span data-i="18697">are</span> <span data-i="18698">naught:</span> <span data-i="18699">I'll</span> <span data-i="18700">mark</span> <span data-i="18701">the</span> <span data-i="18702">play.</span> </div>
-			<div><span data-i="18704">Prologue</span> </div>
-			<div><span data-i="18706">For</span> <span data-i="18707">us,</span> <span data-i="18708">and</span> <span data-i="18709">for</span> <span data-i="18710">our</span> <span data-i="18711">tragedy,</span> </div>
-			<div><span data-i="18713">Here</span> <span data-i="18714">stooping</span> <span data-i="18715">to</span> <span data-i="18716">your</span> <span data-i="18717">clemency,</span> </div>
-			<div><span data-i="18719">We</span> <span data-i="18720">beg</span> <span data-i="18721">your</span> <span data-i="18722">hearing</span> <span data-i="18723">patiently.</span> </div>
+			<div><span data-i="15968">You</span> <span data-i="15969">are</span> <span data-i="15970">naught,</span> <span data-i="15971">you</span> <span data-i="15972">are</span> <span data-i="15973">naught:</span> <span data-i="15974">I'll</span> <span data-i="15975">mark</span> <span data-i="15976">the</span> <span data-i="15977">play.</span> </div>
+			<div><span data-i="15978">Prologue</span> </div>
+			<div><span data-i="15979">For</span> <span data-i="15980">us,</span> <span data-i="15981">and</span> <span data-i="15982">for</span> <span data-i="15983">our</span> <span data-i="15984">tragedy,</span> </div>
+			<div><span data-i="15985">Here</span> <span data-i="15986">stooping</span> <span data-i="15987">to</span> <span data-i="15988">your</span> <span data-i="15989">clemency,</span> </div>
+			<div><span data-i="15990">We</span> <span data-i="15991">beg</span> <span data-i="15992">your</span> <span data-i="15993">hearing</span> <span data-i="15994">patiently.</span> </div>
 		</div>
 	</div>
 </div>

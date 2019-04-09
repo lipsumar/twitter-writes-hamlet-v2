@@ -1,67 +1,67 @@
-<div class="text__stage-direction"><span data-i="36366">They</span> <span data-i="36367">play</span> </div>
+<div class="text__stage-direction"><span data-i="30980">They</span> <span data-i="30981">play</span> </div>
 <div class="text__dialog">
 	<div class="dialog"><div class="dialog__name"></div><div class="dialog__text">
-			<div><span data-i="36370">Another</span> <span data-i="36371">hit;</span> <span data-i="36372">what</span> <span data-i="36373">say</span> <span data-i="36374">you?</span> </div>
+			<div><span data-i="30982">Another</span> <span data-i="30983">hit;</span> <span data-i="30984">what</span> <span data-i="30985">say</span> <span data-i="30986">you?</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36376">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="30987">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36378">A</span> <span data-i="36379">touch,</span> <span data-i="36380">a</span> <span data-i="36381">touch,</span> <span data-i="36382">I</span> <span data-i="36383">do</span> <span data-i="36384">confess.</span> </div>
+			<div><span data-i="30988">A</span> <span data-i="30989">touch,</span> <span data-i="30990">a</span> <span data-i="30991">touch,</span> <span data-i="30992">I</span> <span data-i="30993">do</span> <span data-i="30994">confess.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36386">KING</span> <span data-i="36387">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="30995">KING</span> <span data-i="30996">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36389">Our</span> <span data-i="36390">son</span> <span data-i="36391">shall</span> <span data-i="36392">win.</span> </div>
+			<div><span data-i="30997">Our</span> <span data-i="30998">son</span> <span data-i="30999">shall</span> <span data-i="31000">win.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36394">QUEEN</span> <span data-i="36395">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="31001">QUEEN</span> <span data-i="31002">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36397">He's</span> <span data-i="36398">fat,</span> <span data-i="36399">and</span> <span data-i="36400">scant</span> <span data-i="36401">of</span> <span data-i="36402">breath.</span> </div>
-			<div><span data-i="36404">Here,</span> <span data-i="36405">Hamlet,</span> <span data-i="36406">take</span> <span data-i="36407">my</span> <span data-i="36408">napkin,</span> <span data-i="36409">rub</span> <span data-i="36410">thy</span> <span data-i="36411">brows;</span> </div>
-			<div><span data-i="36413">The</span> <span data-i="36414">queen</span> <span data-i="36415">carouses</span> <span data-i="36416">to</span> <span data-i="36417">thy</span> <span data-i="36418">fortune,</span> <span data-i="36419">Hamlet.</span> </div>
+			<div><span data-i="31003">He's</span> <span data-i="31004">fat,</span> <span data-i="31005">and</span> <span data-i="31006">scant</span> <span data-i="31007">of</span> <span data-i="31008">breath.</span> </div>
+			<div><span data-i="31009">Here,</span> <span data-i="31010">Hamlet,</span> <span data-i="31011">take</span> <span data-i="31012">my</span> <span data-i="31013">napkin,</span> <span data-i="31014">rub</span> <span data-i="31015">thy</span> <span data-i="31016">brows;</span> </div>
+			<div><span data-i="31017">The</span> <span data-i="31018">queen</span> <span data-i="31019">carouses</span> <span data-i="31020">to</span> <span data-i="31021">thy</span> <span data-i="31022">fortune,</span> <span data-i="31023">Hamlet.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36421">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="31024">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36423">Good</span> <span data-i="36424">madam!</span> </div>
+			<div><span data-i="31025">Good</span> <span data-i="31026">madam!</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36426">KING</span> <span data-i="36427">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="31027">KING</span> <span data-i="31028">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36429">Gertrude,</span> <span data-i="36430">do</span> <span data-i="36431">not</span> <span data-i="36432">drink.</span> </div>
+			<div><span data-i="31029">Gertrude,</span> <span data-i="31030">do</span> <span data-i="31031">not</span> <span data-i="31032">drink.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36434">QUEEN</span> <span data-i="36435">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="31033">QUEEN</span> <span data-i="31034">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36437">I</span> <span data-i="36438">will,</span> <span data-i="36439">my</span> <span data-i="36440">lord;</span> <span data-i="36441">I</span> <span data-i="36442">pray</span> <span data-i="36443">you,</span> <span data-i="36444">pardon</span> <span data-i="36445">me.</span> </div>
+			<div><span data-i="31035">I</span> <span data-i="31036">will,</span> <span data-i="31037">my</span> <span data-i="31038">lord;</span> <span data-i="31039">I</span> <span data-i="31040">pray</span> <span data-i="31041">you,</span> <span data-i="31042">pardon</span> <span data-i="31043">me.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36447">KING</span> <span data-i="36448">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="31044">KING</span> <span data-i="31045">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36450">[Aside]</span> <span data-i="36451">It</span> <span data-i="36452">is</span> <span data-i="36453">the</span> <span data-i="36454">poison'd</span> <span data-i="36455">cup:</span> <span data-i="36456">it</span> <span data-i="36457">is</span> <span data-i="36458">too</span> <span data-i="36459">late.</span> </div>
+			<div><span data-i="31046">[Aside]</span> <span data-i="31047">It</span> <span data-i="31048">is</span> <span data-i="31049">the</span> <span data-i="31050">poison'd</span> <span data-i="31051">cup:</span> <span data-i="31052">it</span> <span data-i="31053">is</span> <span data-i="31054">too</span> <span data-i="31055">late.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36461">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="31056">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36463">I</span> <span data-i="36464">dare</span> <span data-i="36465">not</span> <span data-i="36466">drink</span> <span data-i="36467">yet,</span> <span data-i="36468">madam;</span> <span data-i="36469">by</span> <span data-i="36470">and</span> <span data-i="36471">by.</span> </div>
+			<div><span data-i="31057">I</span> <span data-i="31058">dare</span> <span data-i="31059">not</span> <span data-i="31060">drink</span> <span data-i="31061">yet,</span> <span data-i="31062">madam;</span> <span data-i="31063">by</span> <span data-i="31064">and</span> <span data-i="31065">by.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36473">QUEEN</span> <span data-i="36474">GERTRUDE</span> </div>
+		<div class="dialog__name"><span data-i="31066">QUEEN</span> <span data-i="31067">GERTRUDE</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36476">Come,</span> <span data-i="36477">let</span> <span data-i="36478">me</span> <span data-i="36479">wipe</span> <span data-i="36480">thy</span> <span data-i="36481">face.</span> </div>
+			<div><span data-i="31068">Come,</span> <span data-i="31069">let</span> <span data-i="31070">me</span> <span data-i="31071">wipe</span> <span data-i="31072">thy</span> <span data-i="31073">face.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36483">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="31074">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36485">My</span> <span data-i="36486">lord,</span> <span data-i="36487">I'll</span> <span data-i="36488">hit</span> <span data-i="36489">him</span> <span data-i="36490">now.</span> </div>
+			<div><span data-i="31075">My</span> <span data-i="31076">lord,</span> <span data-i="31077">I'll</span> <span data-i="31078">hit</span> <span data-i="31079">him</span> <span data-i="31080">now.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36492">KING</span> <span data-i="36493">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="31081">KING</span> <span data-i="31082">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36495">I</span> <span data-i="36496">do</span> <span data-i="36497">not</span> <span data-i="36498">think't.</span> </div>
+			<div><span data-i="31083">I</span> <span data-i="31084">do</span> <span data-i="31085">not</span> <span data-i="31086">think't.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36500">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="31087">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36502">[Aside]</span> <span data-i="36503">And</span> <span data-i="36504">yet</span> <span data-i="36505">'tis</span> <span data-i="36506">almost</span> <span data-i="36507">'gainst</span> <span data-i="36508">my</span> <span data-i="36509">conscience.</span> </div>
+			<div><span data-i="31088">[Aside]</span> <span data-i="31089">And</span> <span data-i="31090">yet</span> <span data-i="31091">'tis</span> <span data-i="31092">almost</span> <span data-i="31093">'gainst</span> <span data-i="31094">my</span> <span data-i="31095">conscience.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36511">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="31096">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36513">Come,</span> <span data-i="36514">for</span> <span data-i="36515">the</span> <span data-i="36516">third,</span> <span data-i="36517">Laertes:</span> <span data-i="36518">you</span> <span data-i="36519">but</span> <span data-i="36520">dally;</span> </div>
-			<div><span data-i="36522">I</span> <span data-i="36523">pray</span> <span data-i="36524">you,</span> <span data-i="36525">pass</span> <span data-i="36526">with</span> <span data-i="36527">your</span> <span data-i="36528">best</span> <span data-i="36529">violence;</span> </div>
-			<div><span data-i="36531">I</span> <span data-i="36532">am</span> <span data-i="36533">afeard</span> <span data-i="36534">you</span> <span data-i="36535">make</span> <span data-i="36536">a</span> <span data-i="36537">wanton</span> <span data-i="36538">of</span> <span data-i="36539">me.</span> </div>
+			<div><span data-i="31097">Come,</span> <span data-i="31098">for</span> <span data-i="31099">the</span> <span data-i="31100">third,</span> <span data-i="31101">Laertes:</span> <span data-i="31102">you</span> <span data-i="31103">but</span> <span data-i="31104">dally;</span> </div>
+			<div><span data-i="31105">I</span> <span data-i="31106">pray</span> <span data-i="31107">you,</span> <span data-i="31108">pass</span> <span data-i="31109">with</span> <span data-i="31110">your</span> <span data-i="31111">best</span> <span data-i="31112">violence;</span> </div>
+			<div><span data-i="31113">I</span> <span data-i="31114">am</span> <span data-i="31115">afeard</span> <span data-i="31116">you</span> <span data-i="31117">make</span> <span data-i="31118">a</span> <span data-i="31119">wanton</span> <span data-i="31120">of</span> <span data-i="31121">me.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36541">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="31122">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36543">Say</span> <span data-i="36544">you</span> <span data-i="36545">so?</span> <span data-i="36546">come</span> <span data-i="36547">on.</span> </div>
+			<div><span data-i="31123">Say</span> <span data-i="31124">you</span> <span data-i="31125">so?</span> <span data-i="31126">come</span> <span data-i="31127">on.</span> </div>
 		</div>
 	</div>
 </div>

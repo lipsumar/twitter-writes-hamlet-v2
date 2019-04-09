@@ -1,30 +1,30 @@
-<div class="text__stage-direction"><span data-i="36291">They</span> <span data-i="36292">play</span> </div>
+<div class="text__stage-direction"><span data-i="30925">They</span> <span data-i="30926">play</span> </div>
 <div class="text__dialog">
 	<div class="dialog">
-		<div class="dialog__name"><span data-i="36295">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="30927">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36297">One.</span> </div>
+			<div><span data-i="30928">One.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36299">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="30929">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36301">No.</span> </div>
+			<div><span data-i="30930">No.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36303">HAMLET</span> </div>
+		<div class="dialog__name"><span data-i="30931">HAMLET</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36305">Judgment.</span> </div>
+			<div><span data-i="30932">Judgment.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36307">OSRIC</span> </div>
+		<div class="dialog__name"><span data-i="30933">OSRIC</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36309">A</span> <span data-i="36310">hit,</span> <span data-i="36311">a</span> <span data-i="36312">very</span> <span data-i="36313">palpable</span> <span data-i="36314">hit.</span> </div>
+			<div><span data-i="30934">A</span> <span data-i="30935">hit,</span> <span data-i="30936">a</span> <span data-i="30937">very</span> <span data-i="30938">palpable</span> <span data-i="30939">hit.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36316">LAERTES</span> </div>
+		<div class="dialog__name"><span data-i="30940">LAERTES</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36318">Well;</span> <span data-i="36319">again.</span> </div>
+			<div><span data-i="30941">Well;</span> <span data-i="30942">again.</span> </div>
 		</div>
-		<div class="dialog__name"><span data-i="36321">KING</span> <span data-i="36322">CLAUDIUS</span> </div>
+		<div class="dialog__name"><span data-i="30943">KING</span> <span data-i="30944">CLAUDIUS</span> </div>
 		<div class="dialog__text">
-			<div><span data-i="36324">Stay;</span> <span data-i="36325">give</span> <span data-i="36326">me</span> <span data-i="36327">drink.</span> <span data-i="36328">Hamlet,</span> <span data-i="36329">this</span> <span data-i="36330">pearl</span> <span data-i="36331">is</span> <span data-i="36332">thine;</span> </div>
-			<div><span data-i="36334">Here's</span> <span data-i="36335">to</span> <span data-i="36336">thy</span> <span data-i="36337">health.</span> </div>
+			<div><span data-i="30945">Stay;</span> <span data-i="30946">give</span> <span data-i="30947">me</span> <span data-i="30948">drink.</span> <span data-i="30949">Hamlet,</span> <span data-i="30950">this</span> <span data-i="30951">pearl</span> <span data-i="30952">is</span> <span data-i="30953">thine;</span> </div>
+			<div><span data-i="30954">Here's</span> <span data-i="30955">to</span> <span data-i="30956">thy</span> <span data-i="30957">health.</span> </div>
 		</div>
 	</div>
 </div>

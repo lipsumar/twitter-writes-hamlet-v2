@@ -7,7 +7,7 @@ Optionally, regenerate the seed files (seed files are in the repo already):
 
 ```bash
 npm run build
-npm run build/scripts/parse-and-seed.js
+npm run generate-seed
 ```
 
 Launch database:
