@@ -1,4 +1,11 @@
 
+> See it live !
+> <http://twitter-writes-hamlet/>
+
+This is a rewrite of [twitter-writes-hamlet](https://github.com/lipsumar/twitter-writes-hamlet).
+
+The codebase is now TypeScript, the database is MongoDB and it's all running in Docker !
+
 ## Setup
 
 ### 1. Database
