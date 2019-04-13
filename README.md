@@ -31,3 +31,8 @@ Database is now running in detached mode, all data and indexes are loaded.
 docker-compose up -d app
 ```
 
+### Dev setup
+
+```bash
+docker-compose up --build app-dev
+```
