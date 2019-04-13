@@ -7,8 +7,10 @@ import { O_RDONLY } from "constants";
 
 const INITIAL_SEARCH_TIMEOUT = 5000
 const MAX_SEARCH_TIMEOUT = 20000
-const DONT_TRACK = 'there,your,most,have,this,good,them,sick,thanks,much,think'.split(',')
-// thanks,much
+const DONT_TRACK = 'there,your,most,have,this,good,them,sick,thanks,much,think,again'.split(',')
+// weird to look for: 
+// - appear'd
+// @todo track/accept all acceptables
 
 class TwitterWritesHamlet {
 
