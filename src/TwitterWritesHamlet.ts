@@ -3,7 +3,8 @@ import State from "./models/State";
 import TwitterListener from "./twitter-listenerr/TwitterListener";
 import Word from "./models/Word";
 import chalk from 'chalk'
-import { O_RDONLY } from "constants";
+import fs from 'fs'
+import {EventEmitter} from 'events'
 
 const INITIAL_SEARCH_TIMEOUT = 5000
 const MAX_SEARCH_TIMEOUT = 20000
@@ -12,7 +13,9 @@ const DONT_TRACK = 'there,your,most,have,this,good,them,sick,thanks,much,think,a
 // - appear'd
 // @todo track/accept all acceptables
 
-class TwitterWritesHamlet {
+const htmlPieceIndex = require('../html-pieces/htmlPieceIndex.json')
+
+class TwitterWritesHamlet extends EventEmitter {
 
   store: PersistentStorage
   twitterListener: TwitterListener
@@ -26,6 +29,7 @@ class TwitterWritesHamlet {
   currentlyTrackedWords?: Word[]
 
   constructor(store: PersistentStorage, twitterListener: TwitterListener) {
+    super()
     this.store = store
     this.twitterListener = twitterListener
     this.twitterListener.on('tweet', this.processTweet.bind(this))
@@ -42,7 +46,7 @@ class TwitterWritesHamlet {
 
   private renewWordListening() {
     this.twitterListener.stopListening()
-    this.getNextWords(10).then(words => {
+    /*this.getNextWords(10).then(words => {
 
       const trackWords = words.filter(w => this.canBeTracked(w))
       this.currentlyTrackedWords = trackWords
@@ -51,10 +55,10 @@ class TwitterWritesHamlet {
       this.twitterListener.listenTo(trackWords.map(w => w.clean)) // @todo also include acceptables
       this.twitterListener.startListening()
 
-    })
+    })*/
   }
 
-  private canBeTracked(word: Word):boolean{
+  private canBeTracked(word: Word): boolean {
     return word.clean.length > 4 && !DONT_TRACK.includes(word.clean)
   }
 
@@ -66,25 +70,25 @@ class TwitterWritesHamlet {
         this.currentWord = word
         this.currentWordRegex = new RegExp('([^a-z]|^)' + this.currentWord.clean + '([^a-z]|$)', 'mi');
 
-        if(!this.canBeTracked(word)){
+        if (!this.canBeTracked(word)) {
           // word can't possibly be tracked, force a search almost immediatly 
           // but still leave a little time since short words 
           // often appear in the stream anyway
           this.setTimeoutForWord(word, true, 1000)
         } else {
-          if(!this.wordIsTracked(word)){
+          if (!this.wordIsTracked(word)) {
             this.renewWordListening()
           }
           this.setTimeoutForWord(word, true)
-        }  
+        }
       })
   }
 
-  setTimeoutForWord(word: Word, resetExponentionalBackoff: boolean = false, force:number|undefined = undefined) {
+  setTimeoutForWord(word: Word, resetExponentionalBackoff: boolean = false, force: number | undefined = undefined) {
     if (resetExponentionalBackoff) {
       this.searchTimeout = INITIAL_SEARCH_TIMEOUT
     }
-    
+
     setTimeout(() => {
       if (!this.currentWord) return
       if (this.currentWord.index === word.index) {
@@ -93,7 +97,7 @@ class TwitterWritesHamlet {
       }
     }, typeof force !== 'undefined' ? force : this.searchTimeout)
 
-    if(typeof force !== 'undefined') return
+    if (typeof force !== 'undefined') return
 
     this.searchTimeout = this.searchTimeout * 2
     if (this.searchTimeout > MAX_SEARCH_TIMEOUT) {
@@ -126,7 +130,7 @@ class TwitterWritesHamlet {
     if (tweet.retweeted_status) {
       return
     }
-    if(this.lastTweet && tweet.id_str < this.lastTweet.id_str){
+    if (this.lastTweet && tweet.id_str < this.lastTweet.id_str) {
       return
     }
     const text = this.getTweetText(tweet)
@@ -137,14 +141,19 @@ class TwitterWritesHamlet {
     }
 
 
-
-    if (text.match(this.currentWordRegex)) {
+    const match = text.match(this.currentWordRegex)
+    if (match) {
       console.log(`🕵️‍  Found "${this.currentWord.clean}" !\n   [${chalk.cyan(tweet.created_at)}] ${this.centerTextOn(text, this.currentWord.clean)}`)
       this.pause = true
-      this.recordTweet(tweet, this.state.currentWordIndex)
-      this.nextWord().then(() => {
-        this.pause = false
-      })
+      const tweetRecord = this.getTweetRecord(tweet, this.currentWord, match)
+      this.recordTweet(tweet, tweetRecord, this.state.currentWordIndex)
+        .then(() => {
+          this.emit('tweet', tweetRecord)
+          return this.nextWord()
+        })
+        .then(() => {
+          this.pause = false
+        })
     } else {
       this.ignoredTweetCount++
       if (this.ignoredTweetCount % 100 === 0) {
@@ -153,13 +162,31 @@ class TwitterWritesHamlet {
     }
   }
 
-  private recordTweet(tweet: any, wordIndex: number) {
-    this.lastTweet = tweet
-    //this.storage
+  getTweetRecord(tweet: any, currentWord: Word, matched: any){
+    const tweetText = this.getTweetText(tweet)
+    const smallTweet = {
+      tweetText: tweetText,
+      screen_name: tweet.user.screen_name,
+      word: currentWord.word,
+      clean: currentWord.clean,
+      charAt: tweetText[matched.index].toLowerCase() === currentWord.clean[0].toLowerCase() ? matched.index : matched.index+1,
+      id: tweet.id,
+      profile_image_url: tweet.user.profile_image_url,
+      date: (new Date()).toString(),
+      index: currentWord.index,
+      found_in_twitter: 1,
+      currentWordCount: this.state.currentWordIndex + 1
+    };
+    return smallTweet
   }
 
-  private wordIsTracked(word: Word):boolean{
-    if(!this.currentlyTrackedWords) return false
+  private recordTweet(tweet: any, tweetRecord:any, wordIndex:number) {
+    this.lastTweet = tweet
+    return this.store.updateWord(wordIndex, tweetRecord)
+  }
+
+  private wordIsTracked(word: Word): boolean {
+    if (!this.currentlyTrackedWords) return false
     return this.currentlyTrackedWords.findIndex(w => w.index === word.index) > -1
   }
 
@@ -175,7 +202,45 @@ class TwitterWritesHamlet {
   }
 
   getState() {
-    return { ...this.state }
+    return {
+      ...this.state,
+      currentWordCount: this.state.currentWordIndex + 1,
+      currentWord: this.currentWord ? this.currentWord.clean : null,
+      htmlPieces: this.getHtmlPieces()
+    }
+    //currentWord: currentWord,
+    //currentWordCount: currentWordCount
+  }
+
+  getHtmlPieces() {
+    var htmlPieces = [];
+    for (var i = 0; i < htmlPieceIndex.length; i++) {
+      if (htmlPieceIndex[i] > this.state.currentWordIndex) {
+        if (typeof htmlPieceIndex[i - 2] !== 'undefined') {
+          htmlPieces.push({
+            html: fs.readFileSync( __dirname + '/../html-pieces/htmlPiece-' + htmlPieceIndex[i - 2]).toString(),
+            index: htmlPieceIndex[i - 2]
+          });
+        }
+        if (typeof htmlPieceIndex[i - 1] !== 'undefined') {
+          htmlPieces.push({
+            html: fs.readFileSync(__dirname + '/../html-pieces/htmlPiece-' + htmlPieceIndex[i - 1]).toString(),
+            index: htmlPieceIndex[i - 1]
+          });
+        }
+        htmlPieces.push({
+          html: fs.readFileSync(__dirname + '/../html-pieces/htmlPiece-'+ htmlPieceIndex[i]).toString(),
+          index: htmlPieceIndex[i]
+        });
+
+        break;
+      }
+    }
+    return htmlPieces
+  }
+
+  getTweetsInRange(range: [number,number]):Promise<any[]>{
+    return this.store.getTweetsInRange(range)
   }
 
   centerTextOn(text: string, needle: string) {
@@ -183,8 +248,8 @@ class TwitterWritesHamlet {
     if (index < 0) return text
 
     let centered = '···' + text.substring(
-      Math.max(index - 20, 0), 
-      Math.min(index + needle.length + 20, text.length-1)
+      Math.max(index - 20, 0),
+      Math.min(index + needle.length + 20, text.length - 1)
     ) + '···'
     centered = centered.replace(/\n/, '\\n')
     return centered

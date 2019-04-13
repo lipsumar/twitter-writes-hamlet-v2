@@ -31,8 +31,8 @@ export default class MongoStore implements PersistentStorage {
     })
   }
 
-  saveState(state: State){
-    return this.collection('state').updateOne({_id: 1}, {$set:state}).then(() => state)
+  saveState(state: State) {
+    return this.collection('state').updateOne({ _id: 1 }, { $set: state }).then(() => state)
   }
 
   getWordsFromIndex(fromIndex: number, wordCount: number): Promise<Word[]> {
@@ -41,6 +41,25 @@ export default class MongoStore implements PersistentStorage {
       .limit(wordCount)
       .sort('index', 1)
       .toArray()
+  }
+
+  getTweetsInRange(range: [number, number]): Promise<any[]> {
+    return this.collection('words')
+      .find({
+        index: {
+          $gte: range[0],
+          $lte: range[1]
+        },
+        found_in_twitter: 1
+      })
+      .sort('index', 1)
+      .toArray()
+  }
+
+  updateWord(wordIndex: number, obj: any){
+    return this.collection('words')
+      .updateOne({index:wordIndex}, {$set: obj})
+      .then(() => true)
   }
 
   private collection(name: string): Collection {

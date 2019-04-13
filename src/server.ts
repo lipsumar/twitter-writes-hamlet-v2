@@ -27,12 +27,24 @@ loadTwhDependencies()
   .then((twh: TwitterWritesHamlet) => {
     console.log('Setting up server...')
 
+
+    app.use(express.static(__dirname + '/../public'))
     app.get('/ping', (req, res) => res.send('pong'))
     app.get('/state', (req, res) => res.send(twh.getState()))
+    app.get('/tweets/range/:range', (req, res) => {
+      const range = req.params.range.split(',').map((i:string) => parseInt(i, 10))
+      twh.getTweetsInRange(range).then(tweets => {
+        res.send({tweets})
+      })
+    })
 
     io.on('connection', (socket: Socket) => {
       console.log('a user connected')
       socket.emit('state', twh.getState())
+    })
+
+    twh.on('tweet', tweet => {
+      io.emit('word', tweet)
     })
 
     http.listen(PORT, () => console.log(`Running on http://localhost:${PORT}`))

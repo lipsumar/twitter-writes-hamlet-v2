@@ -27,7 +27,7 @@ var queue:any[] = [];
 
 function out(html: string, s?: string, split?: boolean){
 //console.log('out', html, s);
-	var splitI = nextWordI;
+	var splitI = sequentialNextWordI;
 	if(s){
 		var words = extractWords(s);
 		var sReplaced = '';

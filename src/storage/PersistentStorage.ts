@@ -6,4 +6,6 @@ export default interface PersistentStorage{
   getState(): Promise<State>
   saveState(state:State): Promise<State>
   getWordsFromIndex(fromIndex:number, wordCount: number): Promise<Word[]>
+  getTweetsInRange(range:[number,number]):Promise<any[]>
+  updateWord(wordIndex:number, obj:any):Promise<boolean>
 }
