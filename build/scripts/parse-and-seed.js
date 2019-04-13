@@ -14,10 +14,11 @@ var openTextDialogTag = false;
 var lastWasDirection = false;
 var allWords = lib_1.extractWords(text);
 var nextWordI = 0;
+var sequentialNextWordI = 0;
 var queue = [];
 function out(html, s, split) {
     //console.log('out', html, s);
-    var splitI = nextWordI;
+    var splitI = sequentialNextWordI;
     if (s) {
         var words = lib_1.extractWords(s);
         var sReplaced = '';
@@ -39,14 +40,15 @@ function out(html, s, split) {
                     acceptable.push(parts.join(''));
                 }
                 queue.push({
-                    index: nextWordI,
+                    index: sequentialNextWordI,
                     word: word,
                     clean: clean,
                     acceptable: acceptable,
                     found_in_twitter: 0
                 });
-                sReplaced += '<span data-i="' + nextWordI + '">' + word + '</span> ';
+                sReplaced += '<span data-i="' + sequentialNextWordI + '">' + word + '</span> ';
                 nextWordI++;
+                sequentialNextWordI++;
                 if (typeof (allWords[nextWordI]) === 'undefined') {
                     //console.log('last word', word);
                     return;
