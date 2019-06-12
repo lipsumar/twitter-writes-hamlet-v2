@@ -36,7 +36,7 @@ export default class TwitterListener extends EventEmitter {
   search(q: string, since_id: string | null):Promise<{}[]> {
     return new Promise((resolve, reject) => {
       return this.client.get('search/tweets', {
-        q: `"${q}"`,
+        q: `"${q}",${q}`,
         //lang: 'en',
         result_type: 'recent',
         since_id
