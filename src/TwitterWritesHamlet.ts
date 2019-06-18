@@ -32,7 +32,7 @@ class TwitterWritesHamlet extends EventEmitter {
     super()
     this.store = store
     this.twitterListener = twitterListener
-    this.twitterListener.on('tweet', this.processTweet.bind(this))
+    this.twitterListener.on('tweet', this.processTweet.bind(this, 'stream'))
     this.searchTimeout = INITIAL_SEARCH_TIMEOUT
   }
 
@@ -107,7 +107,7 @@ class TwitterWritesHamlet extends EventEmitter {
   searchForWord(word: Word) {
     console.log(`🔎 SEARCH for "${word.clean}"`)
     this.twitterListener.search(word.clean, this.lastTweet ? this.lastTweet.id_str : null).then(tweets => {
-      tweets.reverse().forEach(this.processTweet.bind(this))
+      tweets.reverse().forEach(this.processTweet.bind(this, 'search'))
     })
   }
 
@@ -122,7 +122,7 @@ class TwitterWritesHamlet extends EventEmitter {
       .then(() => this.setCurrentWord())
   }
 
-  private processTweet(tweet: any) {
+  private processTweet(source:string, tweet: any) {
     if (this.pause || !this.currentWord) {
       return
     }
@@ -142,7 +142,7 @@ class TwitterWritesHamlet extends EventEmitter {
 
     const match = text.match(this.currentWordRegex)
     if (match) {
-      console.log(`🕵️‍  Found "${this.currentWord.clean}" !\n   [${chalk.cyan(tweet.created_at)}] ${this.centerTextOn(text, this.currentWord.clean)}`)
+      console.log(`🕵️‍  Found "${this.currentWord.clean}" ! [${source}]\n   [${chalk.cyan(tweet.created_at)}] ${this.centerTextOn(text, this.currentWord.clean)}`)
       this.pause = true
       const tweetRecord = this.getTweetRecord(tweet, this.currentWord, match)
       this.recordTweet(tweet, tweetRecord, this.state.currentWordIndex)
