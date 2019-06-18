@@ -37,7 +37,7 @@ class TwitterWritesHamlet extends EventEmitter {
   }
 
   init() {
-    return this.loadState().then()
+    return this.loadState()
   }
 
   start() {
