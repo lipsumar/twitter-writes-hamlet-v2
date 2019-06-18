@@ -46,7 +46,7 @@ class TwitterWritesHamlet extends EventEmitter {
 
   private renewWordListening() {
     this.twitterListener.stopListening()
-    /*this.getNextWords(10).then(words => {
+    this.getNextWords(10).then(words => {
 
       const trackWords = words.filter(w => this.canBeTracked(w))
       this.currentlyTrackedWords = trackWords
@@ -54,8 +54,7 @@ class TwitterWritesHamlet extends EventEmitter {
       console.log(chalk.magenta('Start listening'), trackWords.map(w => w.clean))
       this.twitterListener.listenTo(trackWords.map(w => w.clean)) // @todo also include acceptables
       this.twitterListener.startListening()
-
-    })*/
+    })
   }
 
   private canBeTracked(word: Word): boolean {
