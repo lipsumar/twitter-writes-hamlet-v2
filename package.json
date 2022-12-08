@@ -20,7 +20,7 @@
     "@types/twitter": "^1.7.0",
     "chalk": "^2.4.2",
     "dotenv": "^7.0.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongodb": "^3.2.3",
     "socket.io": "^2.2.0",
     "twitter": "^1.7.1",
